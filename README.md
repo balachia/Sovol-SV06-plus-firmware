@@ -153,7 +153,7 @@ Please note:
 2. Empty entire `~/printer_data/config` folder.
    - In linux, you can delete files via `rm fileName` and directories via `rmdir directoryName`.
    - In linux, you can list files and folders via `ls -lah`.
-3. `git clone -b sv06-plus --single-branch https://github.com/bassamanator/Sovol-SV06-firmware.git .` ⚠️ Don't miss the period!
+3. `git clone -b sv06-plus-local --single-branch https://github.com/balachia/Sovol-SV06-plus-firmware.git .` ⚠️ Don't miss the period!
 
 #### Method 2: Download the ZIP
 
